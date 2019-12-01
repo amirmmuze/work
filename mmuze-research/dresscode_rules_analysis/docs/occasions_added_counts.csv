@@ -1,0 +1,18 @@
+,gender,dress_code,parent_type,total_count,added_count
+0,Female,active,jeans,29,9408
+1,Male,active,jeans,47,9002
+2,Female,festive,shirt,350,125
+3,Female,festive,pants,158,92
+4,Female,festive,top,238,75
+5,Male,festive,shirt,94,48
+6,Male,festive,sweater,80,22
+7,Female,business formal,pants,4226,19
+8,Female,business formal,shirt,65764,12
+9,Female,festive,sweater,102,8
+10,Male,festive,pajama,48,6
+11,Male,business formal,shirt,65109,6
+12,Male,festive,hoodie,4,2
+13,Male,festive,top,8,2
+14,Female,active,top,2151,2
+15,Male,business formal,pants,1358,1
+16,Female,active,skirt,91,1

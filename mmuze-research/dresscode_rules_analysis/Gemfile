@@ -1,0 +1,70 @@
+source 'http://rubygems.org'
+
+gem 'bundler'
+gem 'awesome_print'
+gem "ffi-aspell"
+gem "bind-it"
+# gem "stanford-core-nlp", :git => 'https://github.com/sashaostr/stanford-core-nlp', :branch => 'master' #:ref => 'master' instead :branch to update latest
+gem "stanford-core-nlp", :git => 'https://github.com/efrat-safanov/stanford-core-nlp', :branch => 'master'
+gem "tweetstream"
+gem "rsolr"
+gem "vacuum"
+gem "nokogiri"
+gem "multi_xml"
+gem "chronic"
+gem "mongo"
+gem "mongodb-mongo_ext"
+gem "bson_ext"
+gem "json"
+gem "wordnet-defaultdb"
+gem "stopwords-filter"
+gem "rglpk"
+gem "wordnet"
+gem "sinatra"
+gem "multipart-post"
+gem "unicorn"
+gem "koala", "~> 2.0"
+gem 'sinatra-twitter-bootstrap', :require => 'sinatra/twitter-bootstrap'
+gem "image_size"
+gem "mysql2", '0.4.10'
+gem "colorize"
+gem "unicode"
+gem "bunny", ">= 1.7.0"
+gem "god"
+gem "twitter"
+gem "anemone", :git => 'https://github.com/efrat-safanov/anemone', :branch => 'next'
+gem "redis"
+gem "therubyracer"
+gem "execjs" 
+gem "cld"
+gem "ruby-prof"
+gem "mini_magick"
+group :test do
+  gem "rspec"
+  gem "webmock"
+end
+group :development do
+  gem 'pry'
+  gem 'recap'
+  gem 'ruby-debug-ide'
+end
+gem "easy_translate"
+gem "mail"
+gem "lrucache"
+gem "smarter_csv"
+gem "twitter-text"
+gem "rdf"
+gem "rdf-turtle"
+gem "i18n"
+gem "open_uri_redirections"
+gem "google_hash", "0.9.0"
+gem "shopify_api"
+gem "ai4r"
+gem "facebook-messenger", :git => 'https://github.com/hyperoslo/facebook-messenger', :branch => 'master'
+gem "rmagick"
+gem "aws-sdk"
+gem 'zip-container'
+gem 'bitly'
+gem "ssh"
+gem "spreadsheet"
+gem "highline"

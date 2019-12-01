@@ -1,0 +1,86 @@
+,from,to,count,sum_ga_add_to_cart,weight
+0,subvertical_selection_second,subvertical_selection_second,4102,451.0,0.10994636762554852
+1,customer_care_url,offer_other_products_for_type,122,12.0,0.09836065573770492
+2,product_type_selection,sub_group_types_question,201,11.0,0.05472636815920398
+3,neckline_question,style_question,301,30.0,0.09966777408637874
+4,cut_question,no_answer,120,11.0,0.09166666666666666
+5,customer_care_url,product_type_selection,445,51.0,0.1146067415730337
+6,subvertical_selection,customer_care_url,601,64.0,0.1064891846921797
+7,positive_sku,positive_sku,840,43.0,0.05119047619047619
+8,subvertical_selection,color_question,784,90.0,0.11479591836734694
+9,consumer_mismatch_one_group,consumer_mismatch_one_group,684,60.0,0.08771929824561403
+10,subvertical_selection,offer_other_products_for_type,143,5.0,0.03496503496503497
+11,sub_group_types_question,color_question,178,14.0,0.07865168539325842
+12,customer_care_url,color_question,216,24.0,0.1111111111111111
+13,product_type_selection,no_products_for_type,188,5.0,0.026595744680851064
+14,color_question,sleeve style_question,469,68.0,0.14498933901918976
+15,offer_other_products_for_type,product_type_selection,205,30.0,0.14634146341463414
+16,subvertical_selection,subvertical_selection_second,5721,623.0,0.1088970459709841
+17,product_type_selection_second,customer_care_url,317,32.0,0.10094637223974763
+18,clarify_for_product_type,clarify_for_product_type,160,12.0,0.075
+19,color_question,style_question,653,80.0,0.1225114854517611
+20,customer_care_url,customer_care_url,435,54.0,0.12413793103448276
+21,customer_care_url,no_answer,547,99.0,0.1809872029250457
+22,subvertical_selection,consumer_mismatch_one_group,275,22.0,0.08
+23,customer_care_url,subvertical_selection,150,6.0,0.04
+24,subvertical_selection_second,product_type_selection,468,47.0,0.10042735042735043
+25,subvertical_selection_second,offer_other_products_for_type,172,15.0,0.0872093023255814
+26,style_question,cut_question,144,13.0,0.09027777777777778
+27,color_question,neckline_question,585,66.0,0.11282051282051282
+28,color_question,fabric_question,556,51.0,0.09172661870503597
+29,fit_question,no_answer,221,21.0,0.09502262443438914
+30,offer_other_products_for_type,offer_other_products_for_type,1024,62.0,0.060546875
+31,consumer_mismatch,consumer_mismatch,146,1.0,0.00684931506849315
+32,customer_care_url,subvertical_selection_second,3343,330.0,0.09871373018247083
+33,subvertical_selection,no_products_for_type,112,5.0,0.044642857142857144
+34,no_products_for_type,no_products_for_type,645,18.0,0.027906976744186046
+35,consumer_mismatch_one_group,subvertical_selection,241,16.0,0.06639004149377593
+36,offer_other_products_for_type,sleeve style_question,108,18.0,0.16666666666666666
+37,product_type_selection,color_question,262,27.0,0.10305343511450382
+38,subvertical_selection_second,color_question,449,61.0,0.1358574610244989
+39,no_answer,product_type_selection,110,8.0,0.07272727272727272
+40,material_question,no_answer,189,24.0,0.12698412698412698
+41,product_type_selection,subvertical_selection,101,8.0,0.07920792079207921
+42,clarify_for_product_type_aspect,no_answer,137,29.0,0.2116788321167883
+43,color_question,subvertical_selection,150,8.0,0.05333333333333334
+44,neckline_question,no_answer,411,53.0,0.12895377128953772
+45,no_products_for_type_single,no_products_for_type_single,112,6.0,0.05357142857142857
+46,subvertical_selection,no_answer,853,108.0,0.12661195779601406
+47,no_answer,color_question,235,31.0,0.13191489361702127
+48,product_type_selection,offer_other_products_for_type,115,11.0,0.09565217391304348
+49,product_type_selection,product_type_selection,2582,292.0,0.11309062742060419
+50,product_type_selection,sleeve style_question,142,22.0,0.15492957746478872
+51,product_type_selection,product_type_selection_second,539,48.0,0.08905380333951762
+52,no_answer,offer_other_products_for_type,760,94.0,0.12368421052631579
+53,consumer_mismatch_one_group,product_type_selection,124,11.0,0.08870967741935484
+54,color_question,fit_question,129,17.0,0.13178294573643412
+55,no_products_for_type,product_type_selection,502,15.0,0.029880478087649404
+56,offer_other_products_for_type,no_answer,390,47.0,0.12051282051282051
+57,subvertical_selection,product_type_selection,946,103.0,0.10887949260042283
+58,subvertical_selection_second,subvertical_selection,676,51.0,0.07544378698224852
+59,subvertical_selection_second,consumer_mismatch_one_group,170,12.0,0.07058823529411765
+60,sub_group_types_question,sub_group_types_question,248,17.0,0.06854838709677419
+61,color_question,no_answer,765,73.0,0.09542483660130718
+62,sleeve style_question,color_question,437,42.0,0.09610983981693363
+63,consumer_mismatch_one_group,color_question,111,11.0,0.0990990990990991
+64,color_question,color_question,292,41.0,0.1404109589041096
+65,style_question,no_answer,563,59.0,0.10479573712255773
+66,sleeve style_question,no_answer,283,35.0,0.12367491166077739
+67,style_question,fabric_question,120,12.0,0.1
+68,subvertical_selection_second,no_answer,780,107.0,0.1371794871794872
+69,subvertical_selection_second,customer_care_url,4421,454.0,0.10269169871069894
+70,no_answer,subvertical_selection,576,33.0,0.057291666666666664
+71,product_type_selection,no_answer,602,91.0,0.1511627906976744
+72,color_question,material_question,326,40.0,0.12269938650306748
+73,subvertical_selection_second,sleeve style_question,134,12.0,0.08955223880597014
+74,offer_other_products_for_type,color_question,317,25.0,0.07886435331230283
+75,subvertical_selection,sleeve style_question,211,15.0,0.07109004739336493
+76,sleeve style_question,neckline_question,310,42.0,0.13548387096774195
+77,no_answer,no_answer,13445,1938.0,0.14414280401636295
+78,no_answer,no_products_for_type,152,1.0,0.006578947368421052
+79,subvertical_selection,subvertical_selection,1363,102.0,0.0748349229640499
+80,no_answer,clarify_for_product_type_aspect,146,36.0,0.2465753424657534
+81,subvertical_selection,fit_question,175,12.0,0.06857142857142857
+82,fabric_question,no_answer,377,34.0,0.09018567639257294
+83,no_answer,customer_care_url,230,40.0,0.17391304347826086
+84,fit_question,color_question,448,45.0,0.10044642857142858

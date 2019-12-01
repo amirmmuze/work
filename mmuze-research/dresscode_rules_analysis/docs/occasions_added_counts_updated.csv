@@ -1,0 +1,14 @@
+,gender,dress_code,parent_type,before_extention,added,after_extention
+0,Female,festive,shirt,350,125,475
+1,Female,festive,pants,158,92,250
+2,Female,festive,top,238,75,313
+3,Male,festive,shirt,94,48,142
+4,Male,festive,sweater,80,22,102
+5,Female,business formal,shirt,65764,12,65776
+6,Female,festive,sweater,102,8,110
+7,Male,festive,pajama,48,6,54
+8,Male,business formal,shirt,65109,6,65115
+9,Female,active,jeans,29,6,35
+10,Male,festive,top,8,2,10
+11,Male,festive,hoodie,4,2,6
+12,Female,active,skirt,91,1,92

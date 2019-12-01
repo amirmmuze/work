@@ -1,0 +1,7 @@
+data_docs/
+data_rules/
+data_dt_rules/
+data_items/
+.Rproj.user/
+.RData
+.Rhistory

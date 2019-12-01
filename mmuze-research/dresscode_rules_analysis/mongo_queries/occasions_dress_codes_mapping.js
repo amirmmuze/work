@@ -1,0 +1,1 @@
+db.getCollection('occasions').aggregate([{"$match":{"dress_codes.0":{"$exists":true},"dress_codes.1":{"$exists":false}}},{"$unwind":"$dress_codes"},{"$project":{"_id":0,"dress_codes":1,"occasion":1}},{"$out":"occasions_dress_codes_unwinded1"}])
